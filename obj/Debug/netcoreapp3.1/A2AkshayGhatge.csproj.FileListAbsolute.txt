@@ -1,0 +1,58 @@
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.exe
+C:\Users\DC\source\repos\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.csprojAssemblyReference.cache
+C:\Users\DC\source\repos\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.AssemblyInfoInputs.cache
+C:\Users\DC\source\repos\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.AssemblyInfo.cs
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.csproj.CopyComplete
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\configuration.json
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.deps.json
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.runtimeconfig.json
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.runtimeconfig.dev.json
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.pdb
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.csproj.CoreCompileInputs.cache
+C:\Users\DC\source\repos\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.dll
+C:\Users\DC\source\repos\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.pdb
+C:\Users\DC\source\repos\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.genruntimeconfig.cache
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.exe
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\configuration.json
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.deps.json
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.runtimeconfig.json
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.runtimeconfig.dev.json
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\A2AkshayGhatge.pdb
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.csprojAssemblyReference.cache
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.AssemblyInfoInputs.cache
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.AssemblyInfo.cs
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.csproj.CoreCompileInputs.cache
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.csproj.CopyComplete
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.dll
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.pdb
+E:\AKSHAY\dot net\Assignment3\A2AkshayGhatge\obj\Debug\netcoreapp3.1\A2AkshayGhatge.genruntimeconfig.cache
